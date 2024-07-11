@@ -1,8 +1,5 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" /> 
-  สวัสดีชาวโลก! 👋 ผม PTDEV แฮกเกอร์สายฮา 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" />
-</h1>
+<h1 align="center" style="background-color: #1E5128; color: #D8E9A8; padding: 10px;">สวัสดีชาวโลก! 👋 ผม PTDEV  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" /></h1>
+
 <h3 align="center">
   โค้ดยังกาก... แต่ความฮาผมระดับเทพ! 😎
 </h3>
